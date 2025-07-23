@@ -1,4 +1,5 @@
 from telebot.types import Message, ReplyKeyboardMarkup, KeyboardButton
+from db import add_user
 
 user_data = {}
 
